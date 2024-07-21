@@ -19,4 +19,4 @@ Typescript ile araç kiralama websitesi projesi geliştirildi.
 ![](public/car_rental3.png)
 
 # GIF
-![](public/car_rental.gif)
+![](public/car_rentall.gif)
